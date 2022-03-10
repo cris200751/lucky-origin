@@ -15,7 +15,7 @@ export default {
 <style>
 #app {
  font-family: Square;
- color: #253449;
+ color: #fff;
  font-size: 0.75rem;
  font-weight: 400;
  background: #000000;
